@@ -1,2 +1,1 @@
-# Confetis-JS🎉✨
-https://bjzarchi.github.io/ConfetisJS-/
+# https://bjzarchi.github.io/Confetis-JS/  🎉✨
