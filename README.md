@@ -1,1 +1,1 @@
-# https://bjzarchi.github.io/Confetis-JS/  🎉✨
+# https://z-bj.github.io/Confetis-JS/  🎉✨
