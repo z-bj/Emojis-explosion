@@ -11,7 +11,7 @@
 
 Whoa, whoa!
 
-Let's go for the creation of confetti-emojis in JavaScript! 
+Let's go for an explosion of confetti-emojis in JavaScript! 
 
 
 ### ➪ [Enjoy it](https://z-bj.github.io/Confetis-JS/) 
