@@ -15,3 +15,5 @@ Let's go for the creation of confetti-emojis in JavaScript!
 
 
 ### ➪ [Enjoy it](https://z-bj.github.io/Confetis-JS/) 
+
+###  click [here to see the code 👀](https://github.com/z-bj/Confetis-JS/blob/master/app.js)
