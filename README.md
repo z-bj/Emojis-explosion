@@ -1,4 +1,4 @@
-# Confetis-JS 🍣
+# GSAP Emoji Exploison 🍣
 
 <img src="https://github.com/z-bj/Confetis-JS/blob/master/emoji-explosion.gif" width="350" height="auto" />
 
