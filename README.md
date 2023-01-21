@@ -14,6 +14,6 @@ Whoa, whoa!
 Let's go for an explosion of confetti-emojis in JavaScript! 
 
 
-### ➪ [Enjoy it](https://z-bj.github.io/Confetis-JS/) 
+### ➪ [Enjoy it](https://z-bj.github.io/Emojis-explosion/) 
 
 ### ➪ [Click here to see the code 👀](https://github.com/z-bj/Confetis-JS/blob/master/app.js)
