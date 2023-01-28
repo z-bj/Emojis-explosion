@@ -64,4 +64,4 @@ function isTweening() {
 
 ```
 
-### ➪ [Enjoy it](https://z-bj.github.io/Emojis-explosion/) 
+### ➪ [Test it](https://z-bj.github.io/Emojis-explosion/) 
