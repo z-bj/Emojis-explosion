@@ -10,12 +10,17 @@
 ![greensock](https://img.shields.io/badge/GreenSock-88CE02.svg?style=for-the-badge&logo=GreenSock&logoColor=white)
 ![githubPages](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)
 
+A fun and playful JavaScript project that creates an explosion of confetti-emojis on the screen using HTML, CSS, JavaScript, and GreenSock animation library.
 
 Whoa, whoa!
 
 Let's go for an explosion of confetti-emojis in JavaScript! 
 
+## Demo
 
+Check out the live demo of this project [here](https://z-bj.github.io/Emojis-explosion).
+
+## Script
 
 ```javascript
 
@@ -64,4 +69,25 @@ function isTweening() {
 
 ```
 
-### ➪ [Test it](https://z-bj.github.io/Emojis-explosion/) 
+## Technologies Used
+
+-   HTML
+-   CSS
+-   JavaScript
+-   GreenSock Animation Platform (GSAP)
+-   GitHub Pages
+
+## Usage
+
+Click the "Fiesta" button on the page to trigger an explosion of confetti-emojis. The code uses a for loop to randomly select emojis from an array and create new divs to display them. The `animateConfettis` function then applies a random combination of animations to each confetti emoji using GSAP.
+
+## Contributing
+
+This project is open to contributions and suggestions. Feel free to submit a pull request with any improvements or bug fixes.
+
+## Acknowledgments
+
+Thanks to GreenSock for their amazing animation library and to GitHub Pages for providing an easy way to host this project online.
+
+
+
