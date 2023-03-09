@@ -77,9 +77,5 @@ Click the "Fiesta" button on the page to trigger an explosion of confetti-emojis
 
 This project is open to contributions and suggestions. Feel free to submit a pull request with any improvements or bug fixes.
 
-## Acknowledgments
-
-Thanks to GreenSock for their amazing animation library and to GitHub Pages for providing an easy way to host this project online.
-
 
 
