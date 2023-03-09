@@ -69,14 +69,6 @@ function isTweening() {
 
 ```
 
-## Technologies Used
-
--   HTML
--   CSS
--   JavaScript
--   GreenSock Animation Platform (GSAP)
--   GitHub Pages
-
 ## Usage
 
 Click the "Fiesta" button on the page to trigger an explosion of confetti-emojis. The code uses a for loop to randomly select emojis from an array and create new divs to display them. The `animateConfettis` function then applies a random combination of animations to each confetti emoji using GSAP.
